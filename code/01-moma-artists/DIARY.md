@@ -1,0 +1,2 @@
+In 1985, seven women banded together to form the Guerilla Girls, a feminist art group devoted to combating sexism and racism in the art world. The group -- which became known for donning gorilla masks in public -- launched in response to MoMA's 1984 exhibition "An International Survey of Recent Painting and Sculpture," which featured 152 male artists and only 13 female artists. Over three decades later, how much has changed? Has MoMA made a noticeable effort to diversify its collection? How has the gender distribution of MoMA accessions changed over time?
+
