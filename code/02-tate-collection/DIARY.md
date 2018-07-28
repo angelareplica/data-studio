@@ -10,7 +10,7 @@ STEPS
 -Merged two of the Tate's data sets: artwork data & artist data
 -created a new "acquisition date" datetime column
 -resampled and plotted acquisitions by gender over time
-  -problem here: in 1856, it looks like they acquired. The museum didn't open until 1897, so this spike may be from Henry Tate's private collection
+  -problem here: in 1856, it looks like they acquired. The museum didn't open until 1897, so this spike may be from Henry Tate's private collection or other collections intended to become part of the future national museum
 -Looking into the data more, the huge spike in 1856 appears to be mostly JMW Turner works. At around 40,000, the Tate owns the biggest collection of works by JMW Turner.
 -Replotted acquisitions by gender over time, this time beginning in 1897. This gives us a better idea of the gender ratio of acquisitions since the museum opened to the public, but doesn't accurately reflect the museum's entire collection
 -Plotted bar graphs showing the gender:
@@ -23,3 +23,4 @@ STEPS
   -works by female artists are 49% by dead artists
   -works by male aritsts are 89% by dead artists
 -Turned my gender split bar chart into a waffle chart. Did this because it's larger and more visually impactful, and I think it will be more amenable to annotation. It'll be easier to show the scope of the collection, and to point out that JMW Turner accounts for a large part of it.
+-Edited my waffle chart so that it shows works by males, females, and J.M.W. Turner (male)
