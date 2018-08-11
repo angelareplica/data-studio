@@ -18,7 +18,10 @@ Steps:
 
 -I'd like to create a stacked bar chart showing which types of operators are involved in crashes -- military, commercial, private, government, etc -- but the documentation does not match the data. The data does not break them down so cleanly -- instead, it has the names of the airlines instead of the type of operator under the "OPERATOR" column. 
 
--I'd similarly like to create a stacked bar chart showing the proportion of species types involved in the crashes -- bird, terrestrial animals, etc -- but there's no way to categorize them either.
+-I'd similarly like to create a stacked bar chart showing the proportion of species types involved in the crashes -- bird, terrestrial animals, etc.
 
 
 
+-Looped through every species listed to assign "terrestrial" or "bird/bat" to it. I think I was pretty thorough, but it's definitely possible that I missed some terrestrial birds or overlooked something, since there were over 700 speices listed.
+
+-Created two stacked bar charts: one showing the proportion of bird/bat and terrestrial animals hit overall, and one showing bird/bat and terrestrial animals in collisions that caused damage.
