@@ -11,5 +11,24 @@ CMU Database:
 https://arima.cylab.cmu.edu/
 
 
+8/8
+-Decided to retool the project a bit and only use CMU's datasets. Their public datasets are more limited and anonymized, but I've requested access to their complete databases through IMPACT. Unfortunately it can take up to 2 weeks for IMPACT to approve my account, which will be after the due date of this project!
+
+-In the meantime, I'd like to chart sales over the 3 largest markets by volume of total sales (Alphabay, Silk Road 2, and Evolution) after Silk Road
+
+-Then I'd like to combine data from the 3 markets and ape the Economist's chart
+
+--------
+
+8/9
+
+-Downloaded datasets and created dataframes; made a donut charts showing cumulative sales for different categories on Alphabay
+
+-------
+ 8/14
+-Re-ordered and updated my donut chart per feedback
+-Created donut charts for Evolution and Silk Road 2
+ -------
+ 
 
 
